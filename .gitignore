@@ -1,0 +1,31 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Environment/secrets
+.env
+
+# Large datasets
+*.zip
+*.rar
+*.7z
+
+# Trained models
+*.pt
+*.onnx
+*.engine
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
