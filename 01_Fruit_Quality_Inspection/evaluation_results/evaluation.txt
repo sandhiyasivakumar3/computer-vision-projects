@@ -1,0 +1,10 @@
+FRUIT QUALITY EVALUATION
+========================
+
+apple_good_01.jpg.jpeg | Expected: GOOD | Predicted: DEFECTIVE
+apple_good_02.jpg.jpg | Expected: GOOD | Predicted: GOOD
+apple_good_03.jpg.jpg | Expected: GOOD | Predicted: GOOD
+apple_defect_01.jpg.jpg | Expected: DEFECTIVE | Predicted: DEFECTIVE
+apple_defect_02.jpg.jpg | Expected: DEFECTIVE | Predicted: DEFECTIVE
+
+Accuracy: 80.00%
