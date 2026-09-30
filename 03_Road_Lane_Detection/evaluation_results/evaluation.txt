@@ -1,0 +1,18 @@
+ROAD LANE DETECTION AND DEPARTURE WARNING SYSTEM
+============================================================
+
+Input video frames      : 205
+Output video frames     : 202
+Input FPS               : 30.00
+Output FPS              : 30.00
+Resolution              : 720 x 1280
+Frames processed        : 202
+Processing completeness : 98.54%
+
+Computer Vision methods:
+- Gaussian Blur
+- Canny Edge Detection
+- Region of Interest (ROI)
+- Hough Line Transform
+- Lane Center Estimation
+- Lane Departure Warning
