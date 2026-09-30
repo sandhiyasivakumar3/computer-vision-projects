@@ -1,0 +1,9 @@
+SMART PARKING SPACE DETECTION - EVALUATION
+==================================================
+Total parking spaces : 8
+Free spaces          : 4
+Occupied spaces      : 4
+Free space percentage: 50.00%
+Occupied percentage  : 50.00%
+Video frames processed: 844
+==================================================
