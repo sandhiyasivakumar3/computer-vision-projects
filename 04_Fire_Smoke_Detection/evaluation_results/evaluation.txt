@@ -1,0 +1,10 @@
+Fire and Smoke Detection Evaluation
+-----------------------------------
+
+Input image: fire_smoke_image.jpg.jpg
+
+Detection status: FIRE + SMOKE DETECTED
+Fire area: 18686 pixels
+Smoke area: 104024 pixels
+
+Result: Fire and smoke successfully detected.
