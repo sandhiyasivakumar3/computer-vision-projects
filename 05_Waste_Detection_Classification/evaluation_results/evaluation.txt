@@ -1,0 +1,16 @@
+Waste Detection and Classification Evaluation
+---------------------------------------------
+
+Input image: waste_image.jpg
+
+Detection model: YOLO11n
+
+Confidence threshold: 0.01
+
+Image size: 1920
+
+Detected waste objects: 6
+
+Detected category: Plastic Bottle
+
+Result: Waste objects were successfully detected and bounding boxes were generated.
